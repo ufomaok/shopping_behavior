@@ -8,7 +8,7 @@ Inferential Statistics
 Data Visualization
 T-Tests/P-Value
 
-# Technologies
+# Technologies Used
 
 Python
 Mathplotlib
