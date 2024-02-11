@@ -17,6 +17,7 @@ Scipy
 Seaborn
 Pandas
 Jupyter
+Power BI
 
 ## Observations 
 
