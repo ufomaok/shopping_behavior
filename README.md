@@ -1,6 +1,6 @@
 # shopping-behavior
 
-This dataset represents a hypothetical clothing site called Flashfash (based in Bengaluru, India) attempting to understand its US customer base. This project aims to analyze customer behavior through agreegate descriptive statistics and visualizations on American consumers. This project aims at discovering following: Discovering the "seasonality" of shoppers, discovering which demographic of shoppers purchase the most items, and deciphering which market strategies can be utilized to increase purchases. 
+This dataset represents a hypothetical clothing site called Flashfash (based in Bengaluru, India) attempting to understand its US customer base. This project aims to analyze customer behavior through aggregate descriptive statistics and visualizations on American consumers. This project aims at discovering following: Discovering the "seasonality" of shoppers, discovering which demographic of shoppers purchase the most items, and deciphering which market strategies can be utilized to increase purchases. 
 
 # Methods Used
 
